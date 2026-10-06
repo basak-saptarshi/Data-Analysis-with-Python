@@ -157,7 +157,7 @@ def demographic_data_analysis(data_file):
 
     print("=" * 60)
 
-    # Return results for future use
+    # Return results 
     return {
         "race_count": race_count,
         "average_age_men": average_age_men,
