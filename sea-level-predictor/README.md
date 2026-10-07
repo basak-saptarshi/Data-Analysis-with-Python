@@ -100,4 +100,4 @@ sea_level_plot.png
 
 ## 📜 License
 
-This project is created for educational and portfolio purposes.
+This project was developed for educational purposes as part of the **FreeCodeCamp Data Analysis with Python** certification.
